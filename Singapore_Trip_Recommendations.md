@@ -36,12 +36,18 @@
 *   **12:00:** Drop bags / Early Check-in. Lunch at **Tanglin Mall** (e.g., *Tanglin Cookhouse* or Food Court).
 *   **14:00:** **Jacob Ballas Children's Garden** (Botanic Gardens).
     *   *Constraint Check:* We must do this today because **Jacob Ballas is CLOSED on Mondays**.
+    *   *Distance from Hotel:* **~3.5 km**.
+    *   *Transport:* **Taxi/Grab (10 mins)**.
+    *   *Warning:* **Do not walk.** While the Botanic Gardens (Tanglin Gate) is near your hotel, Jacob Ballas is at the *opposite end* (Bukit Timah side). Walking through the gardens is ~2.5km and too tiring for the toddler/seniors in the afternoon heat.
     *   *Activity:* A dedicated garden for kids to run, explore, and play with water (bring extra clothes for the toddler!).
 *   **16:00:** Transport to **Suntec City**.
+    *   *Distance:* **~6 km**.
+    *   *Transport:* **Taxi/Grab (15 mins)** from Jacob Ballas.
 *   **17:30:** **Singapore DuckTours** (Sunset Slot).
     *   *Why:* Perfect introduction to the city (Marina Bay, Civic District) from both land and water without walking. It’s cooler at this time.
 *   **19:00:** Dinner at **Maxwell Food Centre** & **Chinatown**.
-    *   *Transport:* Short taxi ride from Suntec to Maxwell.
+    *   *Distance:* **~2.5 km**.
+    *   *Transport:* **Taxi/Grab (5-10 mins)** from Suntec.
     *   *Must-Eats:* **Tian Tian Chicken Rice** (Maxwell), **Ondeh-Ondeh** (snacks).
     *   *After Dinner:* Walk around Chinatown/Buddha Tooth Relic Temple (Exterior) which is beautifully lit at night.
 
@@ -51,17 +57,22 @@
 
 ### **Day 2: Sentosa Island Fun (Sat, Dec 27)**
 *   **09:30:** Transport to **Resorts World Sentosa**.
+    *   *Distance from Hotel:* **~9 km**.
+    *   *Transport:* **Taxi/Grab (20 mins)** directly to the Casino/Underground drop-off point.
 *   **10:00:** **S.E.A. Aquarium**. (Air-conditioned & stroller friendly).
 *   **13:00:** Lunch at **Malaysian Food Street** (RWS) or **Din Tai Fung** (RWS) for kid-friendly dumplings.
 *   **14:30:** **Skyline Luge & Skyride** (Beach Station).
-    *   *Transport:* Take the Sentosa Express Monorail from RWS to Beach Station.
+    *   *Distance:* **~2 km** (Internal Sentosa travel).
+    *   *Transport:* Take the **Sentosa Express Monorail** (Free within island) from Resorts World Station to Beach Station.
     *   *Note:* Toddlers under 6 years/110cm can ride the Luge in tandem with an adult.
 *   **17:00:** Relax at **Siloso Beach** (Coastes is a nice beach bar) or head back to the city.
 *   **Evening:** Free & Easy.
 
 ### **Day 3: The Zoo Adventure (Sun, Dec 28)**
 *   **08:00:** Breakfast & Depart.
-    *   *Transport:* **Book two Taxis or a 6-seater Grab**. (30 min drive).
+    *   *Distance from Hotel:* **~22 km**.
+    *   *Transport:* **Book two Taxis or a 6-seater Grab (30-40 mins)**.
+    *   *Why:* Public transport (MRT + Bus) takes >1 hour and involves transfers.
 *   **09:00:** **Singapore Zoo**.
     *   *Strategy:* Rent a wagon for the toddler. Use the Tram to save the seniors' legs.
     *   *Shows:* Splash Safari (10:30am), Rainforest Fights Back (12:00pm).
@@ -72,9 +83,13 @@
 *   **Note:** Jacob Ballas is **CLOSED** today.
 *   **09:00:** Breakfast at **Ya Kun Kaya Toast** (Tanglin Mall or Orchard). Try the traditional Kaya Toast & Soft Boiled Eggs.
 *   **10:30:** Option A: **Singapore Botanic Gardens (Main Area)**.
+    *   *Distance from Hotel:* **~1 km** (to Tanglin Gate).
+    *   *Transport:* **Walk (10-15 mins)** or Short Taxi ride.
     *   The main gardens (UNESCO site) are open. You can see the Swans at the Eco Lake or the Orchid Garden.
     *   Option B: **Jewel Changi Airport** (Early Arrival).
 *   **12:00:** Check out. Head to Airport.
+    *   *Distance to Airport:* **~24 km**.
+    *   *Transport:* **Maxi Cab / Taxi (25-30 mins)**.
 *   **13:00:** Explore **Jewel Changi Airport**.
     *   *Lunch:* Lots of options (Shake Shack, Burger & Lobster, Violet Oon).
     *   *Activity:* **Canopy Park** (Top level) – Nets, slides, and mazes perfect for the toddler. View the **Rain Vortex**.
