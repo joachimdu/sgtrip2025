@@ -60,10 +60,11 @@
 *   **Why Sentosa on Saturday?** We scheduled Sentosa first because it offers a mix of indoor (Aquarium) and outdoor activities. This gives your group (especially the toddler and seniors) a chance to **acclimatize** to Singapore's heat with significant breaks in air-conditioning.
 *   **Why Zoo on Sunday?** The Singapore Zoo is almost entirely outdoors and is the most physically demanding activity. Placing it on Sunday allows everyone to build up stamina and adjust to the humidity before tackling the "big walk."
 
-### **Day 2: Sentosa Island Fun (Sat, Dec 27)**
+### Day 2: Sentosa Island Fun (Sat, Dec 27)
 *   **09:30:** Transport to **Resorts World Sentosa**.
     *   *Distance from Hotel:* **~9 km**.
     *   *Transport:* **Taxi/Grab (20 mins)** directly to the Casino/Underground drop-off point.
+    *   *Timing Logic:* S.E.A. Aquarium opens at **10:00 AM**. Leaving at 9:30 ensures you arrive right as doors open, beating the heavy Saturday queues that form by 10:30 AM.
 *   **10:00:** **S.E.A. Aquarium**. (Air-conditioned & stroller friendly).
 *   **13:00:** Lunch at **Malaysian Food Street** (RWS) or **Din Tai Fung** (RWS) for kid-friendly dumplings.
 *   **14:30:** **Skyline Luge & Skyride** (Beach Station).
