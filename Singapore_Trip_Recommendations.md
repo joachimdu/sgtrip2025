@@ -45,6 +45,10 @@
     *   *Must-Eats:* **Tian Tian Chicken Rice** (Maxwell), **Ondeh-Ondeh** (snacks).
     *   *After Dinner:* Walk around Chinatown/Buddha Tooth Relic Temple (Exterior) which is beautifully lit at night.
 
+### **Note on Itinerary Logic (Day 2 vs Day 3)**
+*   **Why Sentosa on Saturday?** We scheduled Sentosa first because it offers a mix of indoor (Aquarium) and outdoor activities. This gives your group (especially the toddler and seniors) a chance to **acclimatize** to Singapore's heat with significant breaks in air-conditioning.
+*   **Why Zoo on Sunday?** The Singapore Zoo is almost entirely outdoors and is the most physically demanding activity. Placing it on Sunday allows everyone to build up stamina and adjust to the humidity before tackling the "big walk."
+
 ### **Day 2: Sentosa Island Fun (Sat, Dec 27)**
 *   **09:30:** Transport to **Resorts World Sentosa**.
 *   **10:00:** **S.E.A. Aquarium**. (Air-conditioned & stroller friendly).
