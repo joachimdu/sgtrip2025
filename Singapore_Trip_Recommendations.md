@@ -34,12 +34,10 @@
 *   **09:45:** Arrival at Changi T4. Immigration & Baggage.
 *   **11:00:** Private Transfer to Hotel (Jen Tanglin).
 *   **12:00:** Drop bags / Early Check-in. Lunch at **Tanglin Mall** (e.g., *Tanglin Cookhouse* or Food Court).
-*   **14:00:** **Jacob Ballas Children's Garden** (Botanic Gardens).
-    *   *Constraint Check:* We must do this today because **Jacob Ballas is CLOSED on Mondays**.
-    *   *Distance from Hotel:* **~3.5 km**.
-    *   *Transport:* **Taxi/Grab (10 mins)**.
-    *   *Warning:* **Do not walk.** While the Botanic Gardens (Tanglin Gate) is near your hotel, Jacob Ballas is at the *opposite end* (Bukit Timah side). Walking through the gardens is ~2.5km and too tiring for the toddler/seniors in the afternoon heat.
-    *   *Activity:* A dedicated garden for kids to run, explore, and play with water (bring extra clothes for the toddler!).
+*   **14:00:** **Singapore Botanic Gardens (Tanglin Gate)**.
+    *   *Distance from Hotel:* **~1 km** (to Tanglin Gate).
+    *   *Transport:* **Walk (10-15 mins)** or Short Taxi ride.
+    *   *Activity:* Explore the beautiful UNESCO World Heritage site. You can enjoy a leisurely stroll, see the swans at Eco Lake, or visit the National Orchid Garden (ticketed, but highly recommended). It's a more relaxed start after arrival.
 *   **16:00:** Transport to **Suntec City**.
     *   *Distance:* **~6 km**.
     *   *Transport:* **Taxi/Grab (15 mins)** from Jacob Ballas.
