@@ -38,6 +38,13 @@
     *   *Distance from Hotel:* **~1 km** (to Tanglin Gate).
     *   *Transport:* **Walk (10-15 mins)** or Short Taxi ride.
     *   *Activity:* Explore the beautiful UNESCO World Heritage site. You can enjoy a leisurely stroll, see the swans at Eco Lake, or visit the National Orchid Garden (ticketed, but highly recommended). It's a more relaxed start after arrival.
+    
+    **OR (Alternative Option): Gardens by the Bay (Cloud Forest / Flower Dome)**
+    *   *Why choose this:* If you prefer **air-conditioning** over an outdoor walk, or want to be closer to the next stop (DuckTours).
+    *   *Distance from Hotel:* **~7 km**.
+    *   *Transport:* **Taxi/Grab (15-20 mins)** from Hotel.
+    *   *Logistics:* Spend 1.5 - 2 hours here. It is very close to Suntec City, making the transfer to DuckTours quick and easy.
+    *   *Note:* Requires paid tickets (Book ahead!).
 *   **16:00:** Transport to **Suntec City**.
     *   *Distance:* **~6 km**.
     *   *Transport:* **Taxi/Grab (15 mins)** from Jacob Ballas.
@@ -81,6 +88,7 @@
 *   **Note:** Jacob Ballas is **CLOSED** today.
 *   **09:00:** Breakfast at **Ya Kun Kaya Toast** (Tanglin Mall or Orchard). Try the traditional Kaya Toast & Soft Boiled Eggs.
 *   **10:30:** Option A: **Singapore Botanic Gardens (Main Area)**.
+    *   *Strategy:* **Perfect option if you chose Gardens by the Bay on Day 1.**
     *   *Distance from Hotel:* **~1 km** (to Tanglin Gate).
     *   *Transport:* **Walk (10-15 mins)** or Short Taxi ride.
     *   The main gardens (UNESCO site) are open. You can see the Swans at the Eco Lake or the Orchid Garden.
