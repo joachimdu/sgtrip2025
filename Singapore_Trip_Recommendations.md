@@ -21,10 +21,38 @@
     *   **Action:** If taller than 0.9m, bring their passport to the Ticket Office at Changi Airport MRT station to get a **free Child Concession Card**.
 *   **Getting Around:** For your group size, a **6-Seater Grab (GrabXL)** is often more convenient and similarly priced to 6 MRT fares for short trips.
 
+### Payment Methods
+*   **Credit/Debit Cards (Visa/Mastercard):** Accepted almost everywhere (Malls, Attractions, Taxis, many Restaurants).
+*   **Cash (SGD):** Essential for **Hawker Centres** and small shops. Withdraw cash at Changi Airport ATMs upon arrival.
+*   **GrabPay (for Tourists):**
+    *   **Grab Services (Rides, Food Delivery):** Link your foreign credit/debit card to your Grab app directly. This works seamlessly.
+    *   **In-Store Payments (QR Code):** While GrabPay is widely accepted, using your contactless foreign credit/debit card (SimplyGo) or cash is often simpler for tourists due to potential complexities with topping up the GrabPay wallet balance with foreign cards.
+*   **GCash (via Alipay+):**
+    *   **How:** Look for merchants displaying the **Alipay+** logo. You can pay directly from your GCash app.
+    *   **Benefits:** Real-time exchange rates, often no service fees for cross-border payments. Transactions show in both SGD and PHP.
+    *   **Limitations:** Acceptance may be limited to specific stores/tourist areas. Some foreign transaction fees may apply.
+*   **Maya (Physical Debit Card):**
+    *   **How:** Use your **physical Maya debit card** (tap-to-pay) wherever Visa is accepted.
+    *   **Benefits:** Works for ATM withdrawals, tap-to-pay purchases in shops/hawker centers, and public transport (MRT/bus).
+    *   **Limitations:** The **Maya app cannot be used** for payments in Singapore. Public transport fares may incur a small admin fee.
+*   **GoTyme (Visa Debit Card):**
+    *   **How:** Use your **GoTyme Visa debit card** wherever Visa is accepted (tap-to-pay).
+    *   **Benefits:** Works for purchases, public transport (MRT/bus), good conversion rates, real-time transaction updates. No international travel notification needed.
+    *   **Limitations:** ATM withdrawals incur fees. May have transaction limits.
+*   **Apps:** Download **Grab** (for ride-hailing and food delivery) and set it up with your credit card before flying.
+
 ### Booking Ahead (Crucial)
 *   **Singapore Zoo:** **Mandatory** to book timeslots online.
 *   **Singapore DuckTours:** Book a late afternoon slot (4:30 PM or 5:30 PM) for Day 1.
 *   **Jacob Ballas:** Free entry, no booking needed, but **check opening hours (Closed Mondays)**.
+
+### SIM Card / Mobile Data (for Mobile WiFi Device)
+*   **Recommendation:** Purchase a **Tourist SIM Card** upon arrival at Changi Airport.
+*   **Where to Buy:**
+    *   **Changi Airport (Strongly Recommended):** Telco kiosks (Singtel, StarHub, M1) are available in the arrival halls of all terminals, or at Changi Recommends counters. This ensures immediate connectivity.
+    *   **Convenience Stores:** 7-Eleven or Cheers outlets also sell pre-paid SIM cards from the major telcos, available island-wide.
+*   **Providers:** Major telcos are **Singtel, StarHub, and M1**. All offer tourist-specific prepaid SIMs with generous data allowances.
+*   **What to Ask For:** A **"Tourist SIM"** or **"Data SIM"** suitable for a mobile WiFi device. They will help you register it (passport required).
 
 ---
 
