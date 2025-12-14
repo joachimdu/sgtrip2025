@@ -8,111 +8,105 @@
 
 ## 1. Pre-Trip Essentials & Logistics
 
+### Airport Transfer (Highly Recommended)
+*   **Recommendation:** **Book a Private Arrival Transfer (Maxi Cab / 7-Seater).**
+*   **Why:** For a group of 6 with luggage, a toddler, and seniors, coordinating two separate Grab cars at a busy airport is stressful. A private driver will wait for you at the arrival hall.
+*   **Cost:** Approx **SGD $65 - $75**.
+*   **Alternative:** Queue for a "Maxi Cab" (7-seater) at the airport taxi stand (flat rate + surcharges), but availability isn't guaranteed.
+
 ### MRT & Transport
-*   **MRT Passes for Adults:** You do *not* need to buy special passes beforehand. Simply use your foreign **contactless bank cards** (Visa/Mastercard) or mobile wallets (Apple Pay/Google Pay) directly at the gantry. This is the "SimplyGo" system.
-    *   *Note:* A small admin fee (approx $0.50 per day) applies to foreign cards.
+*   **MRT Passes:** Use foreign **contactless bank cards** (Visa/Mastercard) directly at the gantry (SimplyGo).
 *   **Toddler (2-3 years old):**
-    *   **Child Concession Card:** Since your child is under 7 years old, they travel for **FREE**.
-    *   If the child is **taller than 0.9m**, you need to get a **Child Concession Card** (free of charge) at the Ticket Office at Changi Airport MRT station upon arrival. You will need the child's **passport**.
-    *   If the child is **shorter than 0.9m**, they just walk through the gantry with you (carried or strictly followed).
-*   **Strollers on MRT:** Elevators are available at every station. Avoid peak hours (8-9am, 6-7pm) if possible, though Dec 26-29 is a holiday period so it should be manageable.
-
-### Payment Methods
-*   **Credit/Debit Cards (Visa/Mastercard):** Accepted almost everywhere (Malls, Attractions, Taxis, many Restaurants).
-*   **Cash (SGD):** Essential for **Hawker Centres** and small shops. Withdraw cash at Changi Airport ATMs upon arrival.
-*   **Apps:** Download **Grab** (for ride-hailing and food delivery) and set it up with your credit card before flying.
-
-### Senior Discounts
-*   **Reality Check:** Most "Senior" rates (60+) listed on websites are strictly for **Singapore Citizens and Permanent Residents**.
-*   **Action:** Purchase standard Adult tickets to be safe. You can ask at the counter, but don't plan your budget around it.
+    *   Travels **FREE**.
+    *   **Action:** If taller than 0.9m, bring their passport to the Ticket Office at Changi Airport MRT station to get a **free Child Concession Card**.
+*   **Getting Around:** For your group size, a **6-Seater Grab (GrabXL)** is often more convenient and similarly priced to 6 MRT fares for short trips.
 
 ### Booking Ahead (Crucial)
-*   **Singapore Zoo:** **Mandatory** to book timeslots online in advance. Tickets can sell out during holiday seasons.
-*   **DuckTours / Luge / Aquarium:** Highly recommended to book online (Klook, Pelago, or official sites) to save time and secure slots.
+*   **Singapore Zoo:** **Mandatory** to book timeslots online.
+*   **Singapore DuckTours:** Book a late afternoon slot (4:30 PM or 5:30 PM) for Day 1.
+*   **Jacob Ballas:** Free entry, no booking needed, but **check opening hours (Closed Mondays)**.
 
 ---
 
-## 2. Strategic Itinerary (Optimized for Efficiency)
+## 2. Strategic Itinerary
 
-**Strategy:** Grouping attractions by location to minimize travel time.
-*   **Orchard Area:** Hotel, Jacob Ballas, Orchard Rd.
-*   **Sentosa Area:** Aquarium, Luge, Skyride.
-*   **Mandai Area:** Zoo (Standalone trip).
-*   **City Area:** DuckTours.
-
-### **Day 1: Arrival & Relaxed Exploration (Fri, Dec 26)**
+### **Day 1: City Orientation & Culture (Fri, Dec 26)**
 *   **09:45:** Arrival at Changi T4. Immigration & Baggage.
-*   **11:00:** Transfer to Hotel (Jen Tanglin). *Recommendation: Book a 6-seater Grab or 2 Taxis. MRT with luggage + toddler + seniors is tiresome.*
-*   **12:30:** Drop bags. Lunch at **Tanglin Mall** (connected to hotel) – plenty of cafes/food court options.
-*   **14:30:** **Jacob Ballas Children's Garden**.
-    *   *Transport:* Short taxi ride or a nice walk through Botanic Gardens (if weather permits, but it's humid).
-    *   *Note:* Closes at 7pm. It is a fantastic, free, dedicated garden for kids.
-*   **17:00:** Back to Hotel to freshen up.
-*   **18:30:** **Orchard Road**.
-    *   Walk from hotel. Since it's Christmas season, the **"Christmas on A Great Street" light-up** will be on.
-    *   **Dinner:** **Food Republic @ Wisma Atria** or **Tangs Market** (basement of Tang Plaza) for comfortable, air-conditioned hawker-style food.
-    *   *Event:* Look out for the "Great Christmas Village" pop-ups along Orchard Road.
+*   **11:00:** Private Transfer to Hotel (Jen Tanglin).
+*   **12:00:** Drop bags / Early Check-in. Lunch at **Tanglin Mall** (e.g., *Tanglin Cookhouse* or Food Court).
+*   **14:00:** **Jacob Ballas Children's Garden** (Botanic Gardens).
+    *   *Constraint Check:* We must do this today because **Jacob Ballas is CLOSED on Mondays**.
+    *   *Activity:* A dedicated garden for kids to run, explore, and play with water (bring extra clothes for the toddler!).
+*   **16:00:** Transport to **Suntec City**.
+*   **17:30:** **Singapore DuckTours** (Sunset Slot).
+    *   *Why:* Perfect introduction to the city (Marina Bay, Civic District) from both land and water without walking. It’s cooler at this time.
+*   **19:00:** Dinner at **Maxwell Food Centre** & **Chinatown**.
+    *   *Transport:* Short taxi ride from Suntec to Maxwell.
+    *   *Must-Eats:* **Tian Tian Chicken Rice** (Maxwell), **Ondeh-Ondeh** (snacks).
+    *   *After Dinner:* Walk around Chinatown/Buddha Tooth Relic Temple (Exterior) which is beautifully lit at night.
 
 ### **Day 2: Sentosa Island Fun (Sat, Dec 27)**
-*   **09:30:** Transport to Sentosa.
-    *   *Option A (Fastest):* Grab/Taxi directly to **Resorts World Sentosa (Casino/Underground drop-off)**.
-    *   *Option B (Scenic):* Taxi to VivoCity -> Take **Sentosa Express Monorail** into the island.
-*   **10:00:** **S.E.A. Aquarium**. (Spend ~2-3 hours). Indulge the toddler here; it's air-conditioned and stroller-friendly.
-*   **13:00:** Lunch at **Malaysian Food Street** (Resorts World Sentosa) – good variety of local hawker food in AC.
-*   **14:30:** **Skyline Luge & Skyride**.
-    *   *Note:* Children under 6 years or under 110cm can ride the Luge in tandem with an adult (Child Doubling).
-*   **17:00:** Head back to mainland/hotel.
-*   **Evening:** Free and Easy. If energy permits, visit **Gardens by the Bay** for **Christmas Wonderland** (Ticketed event, huge crowds, buy ahead if interested).
+*   **09:30:** Transport to **Resorts World Sentosa**.
+*   **10:00:** **S.E.A. Aquarium**. (Air-conditioned & stroller friendly).
+*   **13:00:** Lunch at **Malaysian Food Street** (RWS) or **Din Tai Fung** (RWS) for kid-friendly dumplings.
+*   **14:30:** **Skyline Luge & Skyride** (Beach Station).
+    *   *Transport:* Take the Sentosa Express Monorail from RWS to Beach Station.
+    *   *Note:* Toddlers under 6 years/110cm can ride the Luge in tandem with an adult.
+*   **17:00:** Relax at **Siloso Beach** (Coastes is a nice beach bar) or head back to the city.
+*   **Evening:** Free & Easy.
 
 ### **Day 3: The Zoo Adventure (Sun, Dec 28)**
 *   **08:00:** Breakfast & Depart.
-    *   *Transport:* **Grab/Taxi is highly recommended**. It is a 25-30 min drive. Public transport (MRT + Bus) takes >1 hour and is draining.
+    *   *Transport:* **Book two Taxis or a 6-seater Grab**. (30 min drive).
 *   **09:00:** **Singapore Zoo**.
-    *   Go early to beat the heat. Rent a wagon/stroller at the entrance for the toddler (and bags).
-    *   Don't miss the shows (Splash Safari, Rainforest Fights Back).
-    *   Use the Tram (included in ticket usually) to save walking for seniors.
-*   **14:00:** Late Lunch at Zoo entrance (KFC, Inuka Cafe) or head back to city.
-*   **Afternoon:** Rest / Nap at hotel.
-*   **18:00:** Dinner at **Newton Food Centre** (featured in *Crazy Rich Asians*). It’s touristy but near your hotel and offers a classic open-air hawker experience.
+    *   *Strategy:* Rent a wagon for the toddler. Use the Tram to save the seniors' legs.
+    *   *Shows:* Splash Safari (10:30am), Rainforest Fights Back (12:00pm).
+*   **14:00:** Late Lunch at Zoo Entrance (KFC / Inuka Cafe) or return to city.
+*   **18:00:** Dinner: **Song Fa Bak Kut Teh** (Centrepoint Orchard or specialized outlets).
 
-### **Day 4: City Tour & Departure (Mon, Dec 29)**
-*   **09:30:** Check out. Store bags at Hotel Bell Desk.
-*   **10:30:** Transport to **Suntec City**.
-*   **11:00:** **Singapore DuckTours**.
-    *   Departing from Suntec City. Tours take ~1 hour. Land + Water tour.
-    *   *Note:* Pre-book this slot!
-*   **12:30:** Last Lunch at Suntec City (Huge mall with Fountain of Wealth).
-*   **14:30:** Return to Hotel to collect bags.
-*   **15:00:** Head to Airport (Changi T4).
-*   **16:00:** Explore **Jewel Changi Airport** (Connected to T1, shuttle bus from T4 available). See the **Rain Vortex** (Waterfall).
+### **Day 4: Relaxed Morning & Departure (Mon, Dec 29)**
+*   **Note:** Jacob Ballas is **CLOSED** today.
+*   **09:00:** Breakfast at **Ya Kun Kaya Toast** (Tanglin Mall or Orchard). Try the traditional Kaya Toast & Soft Boiled Eggs.
+*   **10:30:** Option A: **Singapore Botanic Gardens (Main Area)**.
+    *   The main gardens (UNESCO site) are open. You can see the Swans at the Eco Lake or the Orchid Garden.
+    *   Option B: **Jewel Changi Airport** (Early Arrival).
+*   **12:00:** Check out. Head to Airport.
+*   **13:00:** Explore **Jewel Changi Airport**.
+    *   *Lunch:* Lots of options (Shake Shack, Burger & Lobster, Violet Oon).
+    *   *Activity:* **Canopy Park** (Top level) – Nets, slides, and mazes perfect for the toddler. View the **Rain Vortex**.
+*   **16:30:** Transfer to Terminal 4 for flight check-in.
 *   **18:25:** Flight Departure.
 
 ---
 
-## 3. Addressing Your Specific Questions
+## 3. Food & Dining Recommendations
 
-1.  **MRT Passes:** No need to buy ahead. Use Contactless Visa/Mastercard.
-2.  **Payment:** Card is King. Cash for Hawkers.
-3.  **Toddler & MRT:** Strollers allowed (lifts everywhere). Free travel (get Child Concession card at Airport if >0.9m).
-4.  **Events:**
-    *   **Christmas on A Great Street:** Light-up along Orchard Road (right outside your hotel).
-    *   **Christmas Wonderland:** At Gardens by the Bay (Requires tickets, very festive).
-    *   **Night at Orchard:** (Dec 26-28) Pop-up stalls along Orchard Road.
-5.  **Transport Modes:**
-    *   **To Zoo:** Taxi/Grab (Strongly advised).
-    *   **To Sentosa:** Taxi/Grab to save transferring.
-    *   **To Orchard:** Walk.
-    *   **General:** For 6 pax, a **6-seater Grab (GrabXL)** or 2 standard Grabs is often similar in price to 6 MRT tickets but offers "Door-to-Door" comfort, crucial with a toddler and seniors.
-6.  **Pre-Purchase:** Yes. Zoo (Mandatory), Luge, DuckTours, Aquarium.
-7.  **Senior Discounts:** Unlikely for tourists. Budget for Adult price.
-8.  **First Day (Dec 26):** **Jacob Ballas Children's Garden** is the perfect low-stress start. It's nearby and lets the toddler burn energy after the flight. Followed by the Orchard Road lights.
-9.  **DuckTours Time:** 10:00 AM or 4:00 PM. Avoid 12:00-2:00 PM (Hot).
-10. **Operating Hours:**
-    *   Zoo: 8:30am - 6:00pm
-    *   Aquarium: 10:00am - 5:00pm
-    *   Jacob Ballas: 8:00am - 7:00pm (Closed Mondays, but you are going Friday)
-    *   Luge: 11:00am - 7:30pm/9:00pm
-11. **Food Recommendations:**
-    *   **Near Hotel:** Tanglin Mall (Food Court), Newton Food Centre (Hawker - Dinner).
-    *   **Sentosa:** Malaysian Food Street.
-    *   **Orchard:** Tangs Market (Basement 1, Tangs Plaza).
+**Local "Must-Eats":**
+1.  **Hainanese Chicken Rice:**
+    *   *Tian Tian Chicken Rice* (Maxwell Food Centre) - The most famous, expect a queue.
+    *   *Boon Tong Kee* (Multiple locations) - Air-conditioned restaurant style, very good.
+2.  **Bak Kut Teh (Pork Rib Soup):**
+    *   *Song Fa Bak Kut Teh* (Multiple locations, e.g., The Centrepoint near your hotel) - Peppery style, very popular.
+3.  **Chilli Crab / Black Pepper Crab:**
+    *   *Jumbo Seafood* (Riverside or Dempsey) - Pricey but iconic. **Reservation essential**.
+    *   *Keng Eng Kee (KEK) Seafood* (Alexandra Village) - More local/hawker style, famous for "Moonlight Hor Fun" too.
+4.  **Kaya Toast (Breakfast):**
+    *   *Ya Kun Kaya Toast* or *Toast Box* - Found in almost every mall.
+5.  **Dim Sum:**
+    *   *Din Tai Fung* (Paragon / Wisma Atria / RWS) - World-famous, very consistent, kid-friendly.
+
+---
+
+## 4. Addressing Your Questions
+
+1.  **DuckTours Priority & Trade-offs:**
+    *   **Verdict:** Doing it Day 1 is a great idea.
+    *   **Trade-off:** You might be tired from the flight.
+    *   **Solution:** Book a **5:30 PM slot**. This gives you time to rest at the hotel midday and avoids the afternoon heat. It leads perfectly into dinner.
+    *   **Jacob Ballas Issue:** We moved Jacob Ballas to Day 1 (2pm) because it is **closed on Mondays**. If 2pm is too hot/rushed, you might have to skip it or visit the main Botanic Gardens on Monday instead.
+2.  **Maxwell & Chinatown:**
+    *   **Placement:** Day 1 Evening (after DuckTours). It is geographically close to Suntec (DuckTours location) via a short taxi ride.
+3.  **Restaurants:**
+    *   See the new "Food & Dining Recommendations" section above.
+4.  **Private Airport Transfer:**
+    *   **Yes, highly recommended.** The convenience of having a driver wait for a group of 6 (with seniors + toddler) outweighs the ~$20 savings compared to coordinating two Grabs. It sets a stress-free tone for the trip.

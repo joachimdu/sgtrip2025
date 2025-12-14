@@ -37,3 +37,8 @@ Orchard Road
 9. What are the operating hours for the attractions listed?
 10. Based on our origin / accomomdation, how would you recommend we structure our itinerary so that we are time efficient and do not spend too much on transportation expenses. Also recommend, where we can eat based on what we have listed.
 11. We are open to suggestions please list them down.
+
+# Additional Considerations after the first set of recommendations
+1. We would want to prioritize the Singapore Duck Tours on our first day, we think it might be a good way to get acquainted with the city before we start with the rest of the days. What are the drawbacks or trade offs if we prioritize the duck tours? And instead of the duck tours, maybe we can do jacob ballas childrens garden on the last day prior to leaving?
+2. We would want to explore maxwell and chinatown where can we put this in our itinerary?
+3. What are recommended restaurants or places to eat while we are in Singapore?
