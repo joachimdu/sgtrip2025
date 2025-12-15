@@ -164,3 +164,26 @@
     *   See the new "Food & Dining Recommendations" section above.
 4.  **Private Airport Transfer:**
     *   **Yes, highly recommended.** The convenience of having a driver wait for a group of 6 (with seniors + toddler) outweighs the ~$20 savings compared to coordinating two Grabs. It sets a stress-free tone for the trip.
+
+---
+
+## 5. Estimated Trip Budget
+
+**Important Considerations for Dec 26-29 (Peak Season):**
+1.  **Surcharges:** Expect higher "surge" prices for Grab rides and potential festive menu pricing at restaurants.
+2.  **Toddler Savings:** Your 2-year-old enters the Zoo and Aquarium for **free**. The main costs for them are the DuckTours seat and Luge "doubling" ticket.
+3.  **Senior Discounts:** Carry passports to prove age (60+) for significant discounts at the Zoo and Aquarium.
+
+### **Budget Breakdown (Per Person in SGD)**
+*Excludes Flights & Accommodation*
+
+| Category | Adult | Senior (60+) | Toddler (2-3yo) | Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| **Attractions** | **$160** | **$110** | **$50** | Zoo, Aquarium, DuckTours, Luge |
+| **Transport** | **$70** | **$70** | **$0** | Share of Private Transfer + GrabXL rides |
+| **Food & Dining** | **$200** | **$200** | **$50** | Mix of Hawker, Mall Dining & 1 Seafood Dinner |
+| **Misc / Buffer** | **$50** | **$50** | **$20** | SIM cards, water, snacks |
+| **TOTAL (SGD)** | **~$480** | **~$430** | **~$120** | **~PHP 21,000 (Adult)** |
+
+*   **Attraction Cost Detail (Adult):** Zoo ($49) + Aquarium ($44) + DuckTours (~$45) + Luge ($33) = ~$171.
+*   **Transport Detail:** Assumes ~3 GrabXL rides per day shared among 6 people.
